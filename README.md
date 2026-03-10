@@ -34,12 +34,6 @@ Trabalho principalmente com tecnologias voltadas ao ecossistema **Java e desenvo
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomedeirosx)](https://github.com/brunomedeirosx/github-readme-stats)
-
----
-
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINKEDIN](https://www.linkedin.com/in/bruno-fernandes-medeiros-93166a254/))
