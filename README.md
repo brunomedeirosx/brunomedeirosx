@@ -36,7 +36,7 @@ Trabalho principalmente com tecnologias voltadas ao ecossistema **Java e desenvo
 
 ## 📊 Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomedeirosx)](https://github.com/brunomedeirosx/github-readme-stats)
 
 ---
 
