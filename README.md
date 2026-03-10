@@ -38,11 +38,9 @@ Trabalho principalmente com tecnologias voltadas ao ecossistema **Java e desenvo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunomedeirosx&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomedeirosx&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?brunomedeirosx=anuraghazra&commits_year=2025)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?brunomedeirosx=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomedeirosx&hide=contribs,prs)
 
 ---
 
